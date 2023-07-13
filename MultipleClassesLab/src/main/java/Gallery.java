@@ -41,7 +41,7 @@ public class Gallery {
     //for each artwork purchased
         //-1 from artwork count (-1) public int
     //decrease price from walletAmount (-=)
-    //add price to tillAmount (+=)
+    //add price to tillAmount (+=)de
 
 
 
